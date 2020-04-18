@@ -19,5 +19,12 @@
   "files": [
     "dist",
     "types"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com:dkwbt/test-1.git"
+  },
+  "keywords": [
+    "text"
   ]
 }
