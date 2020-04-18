@@ -1,0 +1,23 @@
+{
+  "name": "@dkwbt/test-1",
+  "version": "0.0.1",
+  "main": "./dist/index.js",
+  "author": "dkwbt",
+  "license": "MIT",
+  "devDependencies": {
+    "@types/react": "^16.9.34",
+    "@types/react-dom": "^16.9.6",
+    "react": "^16.13.1",
+    "react-dom": "^16.13.1",
+    "typescript": "^3.8.3"
+  },
+  "scripts": {
+    "build": "tsc",
+    "build:watch": "tsc -w"
+  },
+  "types": "./types/custom-text-field/index.d.ts",
+  "files": [
+    "dist",
+    "types"
+  ]
+}
